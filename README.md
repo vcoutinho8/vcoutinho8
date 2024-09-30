@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently studying Computer Science at Universidade Vila Velha!</p>
+<p align="left"> ● 🎓 I’m currently studying Computer Science at Universidade Vila Velha!</p>
+<p align="left"> ● 🌱 I love cats and I'm always studying to improve!</p>
 
 ###
 
@@ -38,14 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vcoutinho8/vcoutinho8/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://tenor.com/bKN7B.gif"  />
-</div>
-
-###
