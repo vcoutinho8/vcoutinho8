@@ -12,7 +12,7 @@
 </div>
 
 ###
-## 🔥 Skills
+## 💻 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
