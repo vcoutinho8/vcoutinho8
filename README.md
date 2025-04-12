@@ -1,5 +1,5 @@
-<h2 align="left">Ei! Meu nome é Vinicius e sou um desenvolvedor em crescimento!</h2>
-
+<h2 align="left">Olá! Meu nome é Vinicius Guimarães.</h2>
+<h2 align="left">No momento, estou buscando me tornar um desenvolvedor qualificado.</h2>
 ###
 
 <p align="left"> ● 🎓 Atualmente, estou cursando Ciência da Computação na Universidade Vila Velha.</p>
