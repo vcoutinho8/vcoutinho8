@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! I'm Vinicius! A Computer Science student in training.</h2>
+<h2 align="left">Ei! Meu nome é Vinicius e sou um desenvolvedor!</h2>
 
 ###
 
-<p align="left"> ● 🎓 I’m currently studying Computer Science at Universidade Vila Velha!</p>
-<p align="left"> ● 🌱 I love cats and I'm always studying to improve!</p>
+<p align="left"> ● 🎓 Atualmente, estou cursando Ciência da Computação na Universidade Vila Velha.</p>
+<p align="left"> ● 🌱 Adoro tecnologia, sou entusiasmado e amo animais.!</p>
 
 ###
 
