@@ -1,9 +1,9 @@
 <h2 align="left">Olá! Meu nome é Vinicius Guimarães.</h2>
-<h2 align="left">No momento, estou buscando me tornar um desenvolvedor qualificado.</h2>
 ###
 
-<p align="left"> ● 🎓 Atualmente, estou cursando Ciência da Computação na Universidade Vila Velha.</p>
-<p align="left"> ● 🌱 Adoro tecnologia, sou entusiasmado e amo animais!</p>
+<p align="left"> ● 🎓 Cursando: Ciência da Computação na Universidade Vila Velha.</p>
+<p align="left"> ● ⌨️ No momento, estou me desenvolvendo como um profissional. </p>
+<p align="left"> ● ❄️ Sou apaixonado por tecnologia e adoro animais!</p>
 
 ###
 
