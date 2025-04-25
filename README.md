@@ -1,8 +1,8 @@
-<h2 align="left">Olá! Meu nome é Vinicius Guimarães.</h2>
+<h2 align="left">Olá! Seja bem-vindo(a) ao meu perfil no GitHub.</h2>
 
 <p align="left"> ● 🎓 Cursando: Ciência da Computação na Universidade Vila Velha.</p>
-<p align="left"> ● ⌨️ No momento, estou me desenvolvendo como um profissional. </p>
-<p align="left"> ● ❄️ Sou apaixonado por tecnologia e adoro animais!</p>
+<p align="left"> ● ⌨️ No momento, estou me desenvolvendo como um profissional.</p>
+<p align="left"> ● ❄️ Sou apaixonado por tecnologia e adoro animais.</p>
 
 ###
 
