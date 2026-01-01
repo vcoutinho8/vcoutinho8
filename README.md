@@ -4,6 +4,7 @@
 <p align="left"> Desenvolvedor de Software | Delphi & PostgreSQL</p>
 
 <img src="https://raw.githubusercontent.com/vcoutinho8/vcoutinho8/output/snake.svg" alt="Snake animation" />
+###
 
 ###
 
