@@ -2,7 +2,7 @@
 
 <p align="left"> ● 🎓 Cursando: Ciência da Computação na Universidade Vila Velha.</p>
 <p align="left"> ● Sou apaixonado por tecnologia e adoro animais.</p>
-<p align="left"> ● No momento, estou focado em desenvolvedor minhas habilidades para crescer profissionalmente.</p>
+<p align="left"> = Desenvolvedor de Software | Delphi & PostgreSQL =</p>
 
 ###
 
