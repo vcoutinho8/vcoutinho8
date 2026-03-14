@@ -2,7 +2,7 @@
 
 <p align="left">
 Meu nome é <strong>Vinícius Coutinho</strong> e atualmente estou cursando <strong>Ciência da Computação</strong> na <strong>Universidade Vila Velha (UVV)</strong>.  
-Atualmente, sou estagiário de desenvolvimento de sistemas, atuando na resolução de problemas através da programação.
+Sou estagiário de desenvolvimento de sistemas, atuando na resolução de problemas através da programação.
 </p>
 
 ---
