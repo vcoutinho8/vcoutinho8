@@ -18,7 +18,7 @@ Sou estagiário de desenvolvimento de sistemas, atuando na resolução de proble
 ## 📊 Estatísticas do GitHub
 
 <div>
-<img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vcoutinho8&layout=compact&theme=dracula"/>
+<img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vcoutinho8&layout=compact&theme=C/C++ Themes"/>
 </div>
 
 ---
