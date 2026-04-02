@@ -15,14 +15,6 @@ Sou estagiário de desenvolvimento de sistemas, atuando na resolução de proble
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcoutinho8&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## Objetivo
 
 Meu objetivo é evoluir constantemente como desenvolvedor, participar de projetos desafiadores e contribuir com soluções que gerem impacto real através da tecnologia.
