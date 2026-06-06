@@ -1,6 +1,6 @@
 # ♾️ Vinicius C. Guimarães
 
-**`Desenvolvedor de Software - Delphi & PostgreSQL`**
+**`Desenvolvedor de Software`**
 
 Olá! Meu nome é Vinicius, sou estudante de Ciência da Computação na Universidade Vila Velha (Espírito Santo) e atuo como desenvolvedor de software. Tenho grande interesse por tecnologia e também sou apaixonado por jogos, livros e animais. Além disso, gosto bastante de explorar temas relacionados à filosofia e à história.
 
@@ -19,19 +19,11 @@ Olá! Meu nome é Vinicius, sou estudante de Ciência da Computação na Univers
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Unity"
+    title="Unity" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 <img 
     align="left" 
@@ -43,19 +35,35 @@ Olá! Meu nome é Vinicius, sou estudante de Ciência da Computação na Univers
 /> 
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left" 
     alt="Delphi" 
     title="Delphi"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -75,19 +83,19 @@ Olá! Meu nome é Vinicius, sou estudante de Ciência da Computação na Univers
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Microsoft SQL Server" 
+    title="Microsoft SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" 
-    alt="Figma" 
-    title="Figma"
+    alt="SourceTree" 
+    title="SourceTree"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" 
 />
 
 <br/>
